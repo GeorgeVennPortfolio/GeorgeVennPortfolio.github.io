@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: #00ff00;
+}
+
+body {
+    background-color: black;
+    font-family: 'Courier New';
+    color:#00ff00
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:grey;
+  }
+
+li {
+    float: left;
+}
+  
+a {
+    display: block;
+    padding: 8px;
+    background-color: grey;
+    color: black;
+    font-size: larger;
+    font-style: oblique;
+}
+
+li a:hover {
+    background-color: lightslategrey;
+}
+
