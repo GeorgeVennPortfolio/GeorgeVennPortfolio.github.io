@@ -21,7 +21,7 @@ li {
     float: left;
 }
   
-a {
+a.nav {
     display: block;
     padding: 8px;
     background-color: grey;
@@ -30,7 +30,7 @@ a {
     font-style: oblique;
 }
 
-li a:hover {
+li a.nav:hover {
     background-color: lightslategrey;
 }
 
